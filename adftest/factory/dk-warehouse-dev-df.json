@@ -1,0 +1,9 @@
+{
+	"name": "dk-warehouse-dev-df",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "432edcc3-2bc8-470f-8492-4b32e8606a5b",
+		"tenantId": "03671b69-a2b5-4af8-9ab5-b858b85ce807"
+	}
+}
